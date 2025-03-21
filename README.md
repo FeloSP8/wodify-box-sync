@@ -84,11 +84,6 @@ CROSSFITDB_CONFIG = {
     "id_user": "123456",
     "id_application": "123456"
 }
-
-# N8
-N8_CONFIG = {
-    "user_id": 123456
-}
 ```
 
 ## 📦 Dependencias
